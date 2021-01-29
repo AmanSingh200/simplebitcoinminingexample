@@ -1,1 +1,2 @@
 # simplebitcoinminingexample
+# simplebitcoinminingexample
